@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header, footer {
+    text-align: center;
+  }
+  
+  #quiz-container, #result-container, #timer {
+    display: none;
+    margin-bottom: 20px;
+  }
+  
+  #choices-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #start-btn {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #score-container {
+    text-align: right;
+  }
+  
