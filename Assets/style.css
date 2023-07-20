@@ -1,29 +1,16 @@
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  header, footer {
-    text-align: center;
-  }
-  
-  #quiz-container, #result-container, #timer {
-    display: none;
-    margin-bottom: 20px;
-  }
-  
-  #choices-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  #start-btn {
-    display: block;
-    margin: 0 auto;
-  }
-  
-  #score-container {
-    text-align: right;
-  }
-  
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+#start-btn, .btn {
+  font-size: 1rem;
+  padding: 5px 10px;
+  margin: 5px 0;
+}
+
+.hide {
+  display: none;
+}
