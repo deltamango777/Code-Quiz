@@ -29,6 +29,21 @@ const questions = [
             {text: 'Joe Biden', correct: true},
             {text: 'Donald Trump', correct: false}
         ]
+    },
+    {
+        question: 'Is Final Fantasy XVI out now?',
+        answers: [
+            {text: 'YES', correct: true},
+            {text: 'NO', correct: false}
+        ]
+    },
+    {
+        question: 'What gets bigger the more you take from it?',
+        answers: [
+            {text: 'A pineapple', correct: false},
+            {text: 'A hole', correct: true},
+            {text: 'A pineapple shaped hole', correct: true}
+        ]
     }
 ];
 
