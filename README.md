@@ -19,7 +19,7 @@ Simply open up the site in a browser or right click open the local install of th
 
 ## Usage
 
-Open the site, click start quiz, choose your answer, and don't fail (via time-out, incorrect answers, or both). Then leave your initials/name for your score to be saved to the local storage. ![image](https://github.com/deltamango777/Code-Quiz/assets/123947166/1502c20e-6821-48ea-8785-560a00ca6f0f)
+Open the site, click start quiz, choose your answer, and don't fail (via time-out, incorrect answers, or both). Then leave your initials/name for your score to be saved to the local storage. Local storage can be viewed in browser via useage of web tools (right click to inspect, and using the menus to access local storage). ![image](https://github.com/deltamango777/Code-Quiz/assets/123947166/1502c20e-6821-48ea-8785-560a00ca6f0f)
 
 
 ## Credits
